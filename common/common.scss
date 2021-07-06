@@ -20,4 +20,30 @@
     color: var(--danger);
     text-transform: uppercase;
   }
+
+  &-content {
+    h3 {
+      margin-top: 1rem;
+      font-size: var(--font-up-2);
+      text-align: center;
+    }
+    // background: var(--primary-low);
+    border: 2px solid var(--primary-low);
+    margin-top: 1rem;
+    border-radius: 0.375rem;
+
+    ul {
+      list-style: none;
+      display: flex;
+      flex-flow: row wrap;
+    }
+
+    li {
+      margin: 0.25rem;
+      padding: 0.5rem;
+      border-radius: 0.25rem;
+      color: var(--primary-high);
+      background: var(--primary-low);
+    }
+  }
 }
