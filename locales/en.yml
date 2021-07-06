@@ -1,3 +1,4 @@
 en:
   theme_metadata:
-    description: "An example theme component to demonstrate how to do some advanced functionality"
+    description: 'An example theme component to demonstrate how to do some advanced functionality'
+  notification_message: 'Collect more badges before the end of this year!'
