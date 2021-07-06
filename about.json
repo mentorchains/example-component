@@ -1,0 +1,13 @@
+{
+  "about_url": "https://github.com/mentorchains/example-component",
+  "license_url": null,
+  "assets": {
+  },
+  "name": "Example Component",
+  "component": true,
+  "authors": "Keegan George",
+  "theme_version": "0.1.0",
+  "color_schemes": {
+
+  }
+}
