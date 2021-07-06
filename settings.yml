@@ -1,0 +1,8 @@
+notification_type:
+  default: 'Reminder'
+  type: enum
+  choices:
+    - 'Reminder'
+    - 'Update'
+    - 'Urgent'
+  description: 'Select a notification type'
